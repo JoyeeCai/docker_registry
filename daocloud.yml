@@ -25,6 +25,7 @@ script:
     - echo "This is an script segment"
     - echo "Run test cases here"
     - echo ""
+    - echo "test"
     - echo "Below shows how to use services, mongodb/mysql/redis are the service host name"
     - ping -c 2 mongodb
     - ping -c 2 mysql
